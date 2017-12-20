@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://clarissapessoa.com/index.html</loc>
-    <lastmod>2017-12-19</lastmod>
+    <lastmod>2017-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -69,16 +69,10 @@
       <image:loc>http://clarissapessoa.com/images/img_0434-crop-u14498_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://clarissapessoa.com/images/perfam-display-pic-crop-u157882.jpg</image:loc>
+      <image:loc>http://clarissapessoa.com/images/yuni%20display%20pic-crop-u158392.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://clarissapessoa.com/images/perfam-display-pic-crop-u15788_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/pasta-crop-u158182.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/pasta-crop-u15818_2x2.png</image:loc>
+      <image:loc>http://clarissapessoa.com/images/yuni%20display%20pic-crop-u15839_2x2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://clarissapessoa.com/images/apponym%20display%20pic-crop-u133202.jpg</image:loc>
@@ -87,10 +81,16 @@
       <image:loc>http://clarissapessoa.com/images/apponym%20display%20pic-crop-u13320_2x2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://clarissapessoa.com/images/yuni%20display%20pic-crop-u158392.jpg</image:loc>
+      <image:loc>http://clarissapessoa.com/images/pasta-crop-u158182.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://clarissapessoa.com/images/yuni%20display%20pic-crop-u15839_2x2.jpg</image:loc>
+      <image:loc>http://clarissapessoa.com/images/pasta-crop-u15818_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/perfam-display-pic-crop-u157882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/perfam-display-pic-crop-u15788_2x2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://clarissapessoa.com/images/img_0434-crop-u144983.jpg</image:loc>
@@ -129,16 +129,16 @@
       <image:loc>http://clarissapessoa.com/images/img_0434-crop-u14498_2x4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://clarissapessoa.com/images/helfie%20brancoasset%2012textura303x304.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/helfie%20brancoasset%2012textura303x304_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://clarissapessoa.com/images/perfam-display-pic-crop-u157884.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://clarissapessoa.com/images/perfam-display-pic-crop-u15788_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/pasta-crop-u158184.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/pasta-crop-u15818_2x4.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://clarissapessoa.com/images/apponym%20display%20pic-crop-u133204.jpg</image:loc>
@@ -153,34 +153,16 @@
       <image:loc>http://clarissapessoa.com/images/yuni%20display%20pic-crop-u15839_2x4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://clarissapessoa.com/images/pasta-crop-u158184.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/pasta-crop-u15818_2x4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/email%20verde%20bolinhaasset%2020textura36x36.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/email%20verde%20bolinhaasset%2020textura36x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/linkd%20verde%20verde%20bolinhaasset%2022textura36x36.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/linkd%20verde%20verde%20bolinhaasset%2022textura36x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/face%20verde%20verde%20bolinhaasset%2021textura36x36.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/face%20verde%20verde%20bolinhaasset%2021textura36x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://clarissapessoa.com/images/img_0434-crop-u144985.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://clarissapessoa.com/images/img_0434-crop-u14498_2x5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/helfie%20brancoasset%2012textura303x304.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/helfie%20brancoasset%2012textura303x304_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://clarissapessoa.com/images/perfam-display-pic-crop-u157885.jpg</image:loc>
@@ -207,16 +189,28 @@
       <image:loc>http://clarissapessoa.com/images/pasta-crop-u15818_2x5.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://clarissapessoa.com/images/email%20verde%20bolinhaasset%2020textura36x36.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/email%20verde%20bolinhaasset%2020textura36x36_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/linkd%20verde%20verde%20bolinhaasset%2022textura36x36.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/linkd%20verde%20verde%20bolinhaasset%2022textura36x36_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/face%20verde%20verde%20bolinhaasset%2021textura36x36.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/face%20verde%20verde%20bolinhaasset%2021textura36x36_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://clarissapessoa.com/images/img_0434-crop-u144986.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://clarissapessoa.com/images/img_0434-crop-u14498_2x6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/helfie%20brancoasset%2012textura212x213.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://clarissapessoa.com/images/helfie%20brancoasset%2012textura212x213_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://clarissapessoa.com/images/perfam-display-pic-crop-u157886.jpg</image:loc>
@@ -242,10 +236,46 @@
     <image:image>
       <image:loc>http://clarissapessoa.com/images/pasta-crop-u15818_2x6.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/img_0434-crop-u144987.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/img_0434-crop-u14498_2x7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/helfie%20brancoasset%2012textura212x213.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/helfie%20brancoasset%2012textura212x213_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/perfam-display-pic-crop-u157887.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/perfam-display-pic-crop-u15788_2x7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/apponym%20display%20pic-crop-u133207.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/apponym%20display%20pic-crop-u13320_2x7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/yuni%20display%20pic-crop-u158397.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/yuni%20display%20pic-crop-u15839_2x7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/pasta-crop-u158187.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://clarissapessoa.com/images/pasta-crop-u15818_2x7.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://clarissapessoa.com/helfie.html</loc>
-    <lastmod>2017-12-19</lastmod>
+    <lastmod>2017-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -269,7 +299,7 @@
   </url>
   <url>
     <loc>http://clarissapessoa.com/apponym.html</loc>
-    <lastmod>2017-12-19</lastmod>
+    <lastmod>2017-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -509,7 +539,7 @@
   </url>
   <url>
     <loc>http://clarissapessoa.com/perfamily.html</loc>
-    <lastmod>2017-12-19</lastmod>
+    <lastmod>2017-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -533,7 +563,7 @@
   </url>
   <url>
     <loc>http://clarissapessoa.com/yuni.html</loc>
-    <lastmod>2017-12-19</lastmod>
+    <lastmod>2017-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
