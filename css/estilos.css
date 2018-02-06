@@ -1,0 +1,241 @@
+/*
+GERAL
+*/
+
+body {
+    
+    font-family: 'Work Sans', Helvetica, sans-serif;
+    
+    
+}
+
+h2,h3 {
+    
+    margin: 0;
+    font-family: "Work Sans", Helvetica sans-serif;
+    font-weight:600;
+    color: black
+     
+}
+
+/*
+NAVEGAÇÃO
+*/
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:#32C0F9;
+    text-align: center;
+   
+   
+}
+
+nav >a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+   
+    
+    
+    
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 0px;
+    
+}
+
+nav ul li {
+    text-align: center;
+    width: 100%;
+    
+}
+
+nav ul li a {
+    
+    display: inline-block;
+    padding: 4px 0;
+    width: 100%;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    
+}
+
+/*
+CABEÇALHO:BEM-VINDO
+*/
+
+header {
+    background-color: #32C0F9;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: 13px; 
+    color: white;
+     
+}
+
+
+header p {
+    
+    margin: 2.5em;
+    
+}
+
+header h1{
+    
+    font-weight: 500;
+}
+
+/*
+SESSÃO SOBRE
+*/
+
+#sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 45px 25px;
+    
+    
+}
+
+#sobre h2{
+    font-size: 25px;
+    color: #999999;
+    font-weight: 500;
+}
+
+#sobre p{
+    
+    font-size: 15px;
+    margin: 0.5em;
+    max-width: 1000px;
+    color: #999999;
+    
+}
+
+#sobre img {
+    
+    margin-bottom: 25px;
+    border-radius: 100px;
+}
+
+/*
+PROJETOS
+*/
+
+#projetos {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+}
+
+#projetos h3 {
+    
+    margin-bottom: 60px;
+    font-size: 25px;
+    color: #999999;
+    font-weight: 500;
+}
+
+#projetos img {
+    
+    width: 100%;
+}
+
+/*
+FOOTER
+*/
+
+footer {
+    
+    text-align: center;
+    padding: 10px;
+    background-color: darkgray;
+}
+
+footer p{
+    color: white;
+    font-size: 15px;
+}
+
+/*
+MEDIA QUERIES
+*/
+
+@media screen and (min-width:600px) {
+    
+    /*
+    NAVEGAÇÃO
+    */
+    
+    nav {
+    
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: justify;
+    padding-top: 20px;
+    padding-left: 30px;
+    
+        
+    }
+    
+    nav a {
+        
+        flex-direction: row;
+        justify-content: space-around;
+        width: 60%;
+        
+        
+    }
+
+    nav ul {
+        
+        flex-direction: row;
+        width: 60%;
+        
+    }
+    
+    
+    /*
+    BEM-VINDO
+    */
+   
+
+    header {
+        height: 600px;
+        height: 60vh;
+        justify-content: center;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
