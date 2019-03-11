@@ -189,11 +189,11 @@ MEDIA QUERIES
     
         flex-direction: row;
         justify-content: space-between;
-        padding-top:5px;
-        padding-left: 60px;
-        padding-right: 60px;
+        padding-top:2px;
+        padding-left: 50px;
+        padding-right: 50px;
         
-        display:flex;
+        
         
     }
     
@@ -201,9 +201,11 @@ MEDIA QUERIES
         
         flex-direction: row;
        
-        width: 30%;
+       
+        width: 40%;
         background-color: black;
-        max-width: 200px;
+        max-width: 250px;
+        
         
         
         
@@ -272,6 +274,11 @@ MEDIA QUERIES
         
         
     }
+    
+    #sobre h3 {
+        min-width: 100%;
+        
+    }
    
     
   
@@ -298,6 +305,7 @@ MEDIA QUERIES
         
         flex-direction: row;
         flex-wrap: wrap;
+        justify-content: flex-end;
     }
     
     #projetos h3 {
@@ -308,16 +316,10 @@ MEDIA QUERIES
     
     #projetos img {
         
-       
-        width: 200px;
+        width: 400px;
     }
 
-    #projetos div{
-        
-      min-width: 90vh; 
-      
-        
-    }
+    
 
 
 }
